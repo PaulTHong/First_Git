@@ -2,5 +2,3 @@
 Test git command.
 hellokitty
 
-lll
-
